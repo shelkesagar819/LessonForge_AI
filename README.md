@@ -127,3 +127,8 @@ The objective of LessonForge AI is to automate educational content generation wh
 
 - [GitHub](https://github.com/shelkesagar819)
 - [LessonForge AI Repository](https://github.com/shelkesagar819/LessonForge_AI)
+
+
+## 📄 Final Lesson
+
+[Introduction to RAG – Google Docs](https://docs.google.com/document/d/1cfkiP7qYKdTxMABsuee8XB4-yCX0N2mx56fVXDtS3tQ/edit?usp=sharing)
